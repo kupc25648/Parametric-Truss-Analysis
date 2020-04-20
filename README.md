@@ -23,4 +23,4 @@ Where users can get help with your project?
 Please feel free to contact me at kupc25648@hotmail.com
 
 Example
-<img src="images/example.png">
+<img src="images/Example.png">
